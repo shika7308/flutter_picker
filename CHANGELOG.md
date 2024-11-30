@@ -1,3 +1,7 @@
+## 2.1.2 - 2024.11.30
+
+* Support gradle 8.8
+
 ## 2.1.1 - 2023.01.30
 
 * Support `dark` theme.
